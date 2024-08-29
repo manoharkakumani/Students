@@ -1,0 +1,48 @@
+---
+import Layout from "../layouts/Layout.astro";
+import AuthForm from "../components/AuthForm.astro";
+
+const registerFields = [
+  { name: "name", type: "text", placeholder: "Full Name" },
+  { name: "email", type: "email", placeholder: "Email address" },
+  { name: "password", type: "password", placeholder: "Password" },
+  {
+    name: "confirmPassword",
+    type: "password",
+    placeholder: "Confirm Password",
+  },
+];
+---
+
+<Layout title="Register">
+  <AuthForm
+    title="Create a new account"
+    fields={registerFields}
+    submitText="Register"
+    alternativeText="Already have an account? Sign in"
+    alternativeLink="/login"
+  />
+</Layout>
+
+<script>
+  localStorage.getItem("token") && window.location.replace("/");
+  const form = document.querySelector("form");
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const formData = new FormData(form);
+
+    const response = await fetch("/api/register", {
+      method: "POST",
+      body: formData,
+    });
+
+    const result = await response.json();
+
+    if (response.status === 201) {
+      alert(result.message);
+      window.location.href = "/login";
+    } else {
+      alert(result.error);
+    }
+  });
+</script>

@@ -1,0 +1,44 @@
+---
+import Layout from "../layouts/Layout.astro";
+import AuthForm from "../components/AuthForm.astro";
+
+const loginFields = [
+  { name: "email", type: "email", placeholder: "Email address" },
+  { name: "password", type: "password", placeholder: "Password" },
+];
+---
+
+<Layout title="Login">
+  <AuthForm
+    title="Sign in to your account"
+    fields={loginFields}
+    submitText="Sign in"
+    alternativeText="Don't have an account? Register"
+    alternativeLink="/register"
+  />
+</Layout>
+
+<script>
+  localStorage.getItem("token") && window.location.replace("/");
+  const form = document.querySelector("form");
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const formData = new FormData(form);
+
+    const response = await fetch("/api/login", {
+      method: "POST",
+      body: formData,
+    });
+
+    const result = await response.json();
+
+    if (response.status === 201) {
+      //   alert(result.message);
+      localStorage.setItem("token", result.token);
+      localStorage.setItem("user", JSON.stringify(result.user));
+      window.location.href = "/";
+    } else {
+      alert(result.error);
+    }
+  });
+</script>

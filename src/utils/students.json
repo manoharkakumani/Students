@@ -1,0 +1,712 @@
+[
+  {
+    "image": "img/GCIS_658_0A/3190353.jpg",
+    "username": "ala007",
+    "category": "GCIS_658_0A",
+    "fullname": "Ashish Reddy Ala",
+    "student_id": "3190353",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3140290.jpg",
+    "username": " aljohani031",
+    "category": "GCIS_658_0A",
+    "fullname": "Asma Aljohani",
+    "student_id": "3140290",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3172154.jpg",
+    "username": " chava012 ",
+    "category": "GCIS_658_0A",
+    "fullname": "Snehitha Chava",
+    "student_id": "3172154",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Tweneboah Koduah"
+  },
+  {
+    "image": "img/GCIS_658_0A/3190985.jpg",
+    "username": "dama002",
+    "category": "GCIS_658_0A",
+    "fullname": "Venkata Gayathri Dama",
+    "student_id": "3190985",
+    "class_level": "Senior, First Year Masters",
+    "major": "MCIS-Software Engineering",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/deeti001.jpg",
+    "username": "deeti001",
+    "category": "GCIS_658_0A",
+    "fullname": "Deeti, Rohini",
+    "student_id": "3181287",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/dontoji001.jpg",
+    "username": "dontoj1001",
+    "category": "GCIS_658_0A",
+    "fullname": "Dontoji, Bharath",
+    "student_id": "3174890",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3200034.jpg",
+    "username": " eluri004",
+    "category": "GCIS_658_0A",
+    "fullname": "Chandra Lekha Eluri",
+    "student_id": "3200034",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3194525.jpg",
+    "username": "gade006 ",
+    "category": "GCIS_658_0A",
+    "fullname": "Abhishek Anthony Reddy Gade",
+    "student_id": "3194525",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/igwebuik001.jpg",
+    "username": "igwebuik001",
+    "category": "GCIS_658_0A",
+    "fullname": "Igwebuike, Ifeoma L.",
+    "student_id": "3107406",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Tweneboah Koduah"
+  },
+  {
+    "image": "img/GCIS_658_0A/3194525.jpg",
+    "username": "kamma001",
+    "category": "GCIS_658_0A",
+    "fullname": "Ramya Kamma",
+    "student_id": "3194525",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3162343.jpg",
+    "username": " kanduri001",
+    "category": "GCIS_658_0A",
+    "fullname": "Sri Nandini Kanduri",
+    "student_id": "3162343",
+    "class_level": "Senior, First Year Masters",
+    "major": "MCIS-Software Engineering",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/little018.jpg",
+    "username": "little018",
+    "category": "GCIS_658_0A",
+    "fullname": "John Little",
+    "student_id": "3100552",
+    "class_level": "Senior, First Year Masters",
+    "major": "MCIS-Software Engineering",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3193801.jpg",
+    "username": "maddhula001",
+    "category": "GCIS_658_0A",
+    "fullname": "Sai Charan Reddy Maddhula",
+    "student_id": "3193801",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3191773.jpg",
+    "username": "mamstudent_idipe001",
+    "category": "GCIS_658_0A",
+    "fullname": "Priya Dharshini Mamstudent_idipelli",
+    "student_id": "33191773",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3194953.jpg",
+    "username": "masiredd001",
+    "category": "GCIS_658_0A",
+    "fullname": "Nithin Reddy Masireddy",
+    "student_id": "3194953",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3149420.jpg",
+    "username": "ohiri001 ",
+    "category": "GCIS_658_0A",
+    "fullname": "Esther Ohiri",
+    "student_id": "3149420",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3164488.jpg",
+    "username": "patel235",
+    "category": "GCIS_658_0A",
+    "fullname": "Jhanvi Patel",
+    "student_id": "3164488",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3147834.jpg",
+    "username": "patel238",
+    "category": "GCIS_658_0A",
+    "fullname": "Nikitaben Patel",
+    "student_id": "3147834",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3164205.jpg",
+    "username": "radhacha001",
+    "category": "GCIS_658_0A",
+    "fullname": "Radha Radha Chalasani",
+    "student_id": "3164205",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3191463.jpg",
+    "username": "thippaba001",
+    "category": "GCIS_658_0A",
+    "fullname": "Pawankumar Thippabattini",
+    "student_id": "3174890",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Data Science",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0A/3180278.jpg",
+    "username": "vaddi001",
+    "category": "GCIS_658_0A",
+    "fullname": "Harika Vaddi",
+    "student_id": "3180278",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3174309.jpg",
+    "username": "addagada002",
+    "category": "GCIS_658_0B",
+    "fullname": "Anudeep Addagada",
+    "student_id": "3174309",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3158142.jpg",
+    "username": "adugna001",
+    "category": "GCIS_658_0B",
+    "fullname": "Feven Birbirsa Adugna",
+    "student_id": "3158142",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3175130.jpg",
+    "username": "alahari003",
+    "category": "GCIS_658_0B",
+    "fullname": "Prathyusha Alahari",
+    "student_id": "33175130",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3170537.jpg",
+    "username": "baskhuu001",
+    "category": "GCIS_658_0B",
+    "fullname": "Batpurev Baskhuu",
+    "student_id": "3170537",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3176102.jpg",
+    "username": "boddam001",
+    "category": "GCIS_658_0B",
+    "fullname": "Hrithik Yadav Boddam",
+    "student_id": "3176102",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3185764.jpg",
+    "username": "bolla016",
+    "category": "GCIS_658_0B",
+    "fullname": "Sunil Chowdary Bolla",
+    "student_id": "3185764",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3072089.jpg",
+    "username": "castillo003",
+    "category": "GCIS_658_0B",
+    "fullname": "Nelson Castillo",
+    "student_id": "3072089",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3191046.jpg",
+    "username": "challa011",
+    "category": "GCIS_658_0B",
+    "fullname": "Lalithashreya Challa",
+    "student_id": "3191046",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3147709.jpg",
+    "username": "chirumam004",
+    "category": "GCIS_658_0B",
+    "fullname": "Avinash Chirumamilla",
+    "student_id": "3147709",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3194619.jpg",
+    "username": "chunduru001",
+    "category": "GCIS_658_0B",
+    "fullname": "Aasritha Chunduru",
+    "student_id": "3194619",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3168389.jpg",
+    "username": "eluri003",
+    "category": "GCIS_658_0B",
+    "fullname": "Hasith Eluri",
+    "student_id": "3168389",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3195074.jpg",
+    "username": "gade004",
+    "category": "GCIS_658_0B",
+    "fullname": "Lourdu Sreya Reddy Gade",
+    "student_id": "3195074",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3176575.jpg",
+    "username": "guduru002",
+    "category": "GCIS_658_0B",
+    "fullname": "Pravalika Guduru",
+    "student_id": "3176575",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3192407.jpg",
+    "username": "kongara001",
+    "category": "GCIS_658_0B",
+    "fullname": "Chaitanya Kongara",
+    "student_id": "3192407",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3178964.jpg",
+    "username": "makkena001",
+    "category": "GCIS_658_0B",
+    "fullname": "Sri Teja Subba Nastudent_idu Makkena",
+    "student_id": "3178964",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3153204.jpg",
+    "username": "malla002",
+    "category": "GCIS_658_0B",
+    "fullname": "Sirapa Malla",
+    "student_id": "3153204",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3147500.jpg",
+    "username": "miah003",
+    "category": "GCIS_658_0B",
+    "fullname": "Md Kauser Miah",
+    "student_id": "3147500",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3193527.jpg",
+    "username": "mohammed134",
+    "category": "GCIS_658_0B",
+    "fullname": "Irfan Ahmed Mohammed",
+    "student_id": "3193527",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3150255.jpg",
+    "username": "muppstudent_idi003",
+    "category": "GCIS_658_0B",
+    "fullname": "Joshua Paul Muppstudent_idi",
+    "student_id": "33150255",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3172759.jpg",
+    "username": "patel252",
+    "category": "GCIS_658_0B",
+    "fullname": "Rom Patel",
+    "student_id": "3172759",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3168422.jpg",
+    "username": "thella001",
+    "category": "GCIS_658_0B",
+    "fullname": "Ishwarya Thella",
+    "student_id": "3168422",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3194685.jpg",
+    "username": "varathar001",
+    "category": "GCIS_658_0B",
+    "fullname": "Arun Bhagavath Varatharajan",
+    "student_id": "3194685",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3178599.jpg",
+    "username": "yesala001",
+    "category": "GCIS_658_0B",
+    "fullname": " Likhith Raj Yesala",
+    "student_id": "3178599",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3155662.jpg",
+    "username": "zewdu001",
+    "category": "GCIS_658_0B",
+    "fullname": "Yitbarek Zewdu",
+    "student_id": "3155662",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3174800.jpg",
+    "username": "addanki004",
+    "category": "GCIS_665_0B",
+    "fullname": "Addanki, Vamsi Nastudent_idu",
+    "student_id": "3174800",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3194625.jpg",
+    "username": "bagam002",
+    "category": "GCIS_665_0B",
+    "fullname": "Bagam, Bhuvanesh",
+    "student_id": "3194625",
+    "class_level": "SFirst Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3170537.jpg",
+    "username": "baskhuu001",
+    "category": "GCIS_665_0B",
+    "fullname": "Baskhuu, Batpurev",
+    "student_id": "3170537",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3163543.jpg",
+    "username": "basu001",
+    "category": "GCIS_665_0B",
+    "fullname": "Basu, Balabharath Babu",
+    "student_id": "3176067",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3163543.jpg",
+    "username": "chadalav001",
+    "category": "GCIS_665_0B",
+    "fullname": "Chadalavada, Venkata Sai C.",
+    "student_id": "3163543",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3150262.jpg",
+    "username": "chinala001",
+    "category": "GCIS_665_0B",
+    "fullname": "Chinala, Jahangir",
+    "student_id": "3150262",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3192670.jpg",
+    "username": "chindam001",
+    "category": "GCIS_665_0B",
+    "fullname": "Chindam, Kavya",
+    "student_id": "33192670",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3166346.jpg",
+    "username": "devagani001",
+    "category": "GCIS_665_0B",
+    "fullname": "Devaganika, Shiva Chandra",
+    "student_id": "3166346",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3175927.jpg",
+    "username": "gali002",
+    "category": "GCIS_665_0B",
+    "fullname": "Gali, Maneesha",
+    "student_id": "3175927",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3178153.jpg",
+    "username": "kakumani001",
+    "category": "GCIS_665_0B",
+    "fullname": "Kakumani, Manohar",
+    "student_id": "3178153",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3190537.jpg",
+    "username": "karusala001",
+    "category": "GCIS_665_0B",
+    "fullname": "Karusala, Gayathri",
+    "student_id": "3190537",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3170290.jpg",
+    "username": "kasini001",
+    "category": "GCIS_665_0B",
+    "fullname": "Kasini, Yashwanth Sai R.",
+    "student_id": "3170290",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3195977.jpg",
+    "username": "kolagani001",
+    "category": "GCIS_665_0B",
+    "fullname": "Kolagani, Venkata Sai Pavan Kumar",
+    "student_id": "3195977",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3190375.jpg",
+    "username": "kusam001",
+    "category": "GCIS_665_0B",
+    "fullname": "Kusam, Vinay Kumar Reddy",
+    "student_id": "3190375",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3182385.jpg",
+    "username": "mankar001",
+    "category": "GCIS_665_0B",
+    "fullname": "Mankar, Priya",
+    "student_id": "3182385",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3149748.jpg",
+    "username": "mehta008",
+    "category": "GCIS_665_0B",
+    "fullname": "Mehta, Abhinav",
+    "student_id": "3149748",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3186333.jpg",
+    "username": "melisov001",
+    "category": "GCIS_665_0B",
+    "fullname": "Melisov, Sultan",
+    "student_id": "3186333",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3166353.jpg",
+    "username": "padala002",
+    "category": "GCIS_665_0B",
+    "fullname": " Padala, Akhilesh Yadav",
+    "student_id": "3166353",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3164218.jpg",
+    "username": "patel236",
+    "category": "GCIS_665_0B",
+    "fullname": "Patel, Manthan D.",
+    "student_id": "3164218",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3193643.jpg",
+    "username": "shiirevv001",
+    "category": "GCIS_665_0B",
+    "fullname": "Shiirevvaanchig, Tumenbayar",
+    "student_id": "3193643",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3153193.jpg",
+    "username": "shrestha015",
+    "category": "GCIS_665_0B",
+    "fullname": "Shrestha, Anish",
+    "student_id": "3153193",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3188609.jpg",
+    "username": "thotakur003",
+    "category": "GCIS_665_0B",
+    "fullname": "Thotakuri, Swetha",
+    "student_id": "3188609",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3176555.jpg",
+    "username": "vemula007",
+    "category": "GCIS_665_0B",
+    "fullname": "Vemula, Krishna Teja",
+    "student_id": "3176555",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0B/3195448.jpg",
+    "username": "yapashet001",
+    "category": "GCIS_665_0B",
+    "fullname": " Yapashetti, Madhuri",
+    "student_id": "3195448",
+    "class_level": "First Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_658_0B/3155662.jpg",
+    "username": "zewdu001",
+    "category": "GCIS_658_0B",
+    "fullname": "Yitbarek Zewdu",
+    "student_id": "3155662",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  },
+  {
+    "image": "img/GCIS_665_0A/diyyala001.jpg",
+    "username": "diyyala001",
+    "category": "GCIS_665_0A",
+    "fullname": "Deeti, Rohini",
+    "student_id": "3181287",
+    "class_level": "Second Year Masters",
+    "major": "MCIS-Information Technology",
+    "advisor": "Dr S Manakkadu"
+  }
+]

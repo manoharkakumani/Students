@@ -1,0 +1,52 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Header from "../layouts/Header.astro";
+import Body from "../layouts/Body.astro";
+import Card from "../components/Card.astro";
+// import students from "../utils/students.json";
+import supabase from "../config/superbaseClient";
+
+let { data, error } = await supabase.from("students").select("*");
+if (error) console.error("error", error);
+const students = data;
+---
+
+<Layout title="Welcome to Astro.">
+  <Header
+    title="Student Details With Astro"
+    filterSelection="filterSelection"
+  />
+  <Body>
+    <div class="flex flex-wrap justify-center gap-4">
+      {students.map((student) => <Card student={student} />)}
+    </div>
+  </Body>
+</Layout>
+
+<script>
+  localStorage.getItem("token") || window.location.replace("/login");
+  function filterSelection(c) {
+    var x, i;
+    x = document.getElementsByClassName("column");
+    if (c == "all") {
+      for (i = 0; i < x.length; i++) {
+        // console.log(x[i].className);
+        x[i].className = x[i].className.replace("hidden", "block");
+      }
+      return;
+    }
+    for (i = 0; i < x.length; i++) {
+      if (x[i].className.indexOf(c) > -1) {
+        x[i].className = x[i].className.replace("hidden", "block");
+      } else {
+        x[i].className = x[i].className.replace("block", "hidden");
+      }
+    }
+  }
+
+  // Make filterSelection available globally
+  window.filterSelection = filterSelection;
+
+  // Initial filter
+  filterSelection("all");
+</script>

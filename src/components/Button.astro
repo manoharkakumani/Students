@@ -1,0 +1,33 @@
+---
+const { isActive = false, text, onClick } = Astro.props;
+---
+
+<button
+  class={`btn bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full transition duration-300 ${
+    isActive ? "active" : ""
+  }`}
+  onclick={onClick}
+>
+  {text}
+</button>
+
+<script>
+  var btns = document.getElementsByClassName("btn");
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function () {
+      var current = document.getElementsByClassName("active");
+      current[0].className = current[0].className.replace("active", "");
+      this.className += " active";
+    });
+  }
+</script>
+
+<style>
+  .active {
+    background-color: red;
+    color: white;
+  }
+  .active:hover {
+    background-color: darkred;
+  }
+</style>

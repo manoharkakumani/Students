@@ -1,0 +1,50 @@
+---
+const { student } = Astro.props;
+---
+
+<div
+  class=`${student.category} column w-64 h-64 [perspective:1000px] m-4 hidden`
+>
+  <div
+    class="relative w-full h-full transition-transform duration-500 transform-style-preserve-3d hover:[transform:rotateY(180deg)]"
+  >
+    <!-- Front of the card -->
+    <div
+      class="absolute inset-0 bg-white border border-gray-200 rounded-lg shadow-md p-6 backface-hidden"
+    >
+      <img
+        src=`https://ogvsgdhhnhgskgceywll.supabase.co/storage/v1/object/public/students/${student.image}`
+        alt={student.username}
+        class="w-32 h-32 rounded-full mx-auto"
+      />
+      <h2 class="text-xl font-bold text-blue-500 text">
+        {student.username}
+      </h2>
+      <p class="text-sm text-gray-500">{student.category}</p>
+      <p class="text-sm text-gray-500">{student.student_id}</p>
+    </div>
+
+    <!-- Back of the card -->
+    <div
+      class="absolute inset-0 bg-blue-500 text-white flex items-center justify-center rounded-lg backface-hidden [transform:rotateY(180deg)]"
+    >
+      <div class="">
+        <h2 class="text-md text-wrap font-bold">{student.fullname}</h2>
+        <p class="text-sm">{student.id}</p>
+        <p class="text-sm">{student.class_level}</p>
+        <p class="text-sm">{student.major}</p>
+        <p class="text-sm">{student.advisor}</p>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .backface-hidden {
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+    }
+    .transform-style-preserve-3d {
+      transform-style: preserve-3d;
+    }
+  </style>
+</div>

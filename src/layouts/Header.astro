@@ -1,0 +1,81 @@
+---
+import Button from "../components/Button.astro";
+const { title, filterSelection } = Astro.props;
+const buttons = [
+  { text: "Show All", value: "all" },
+  { text: "GCIS_658_0A", value: "GCIS_658_0A" },
+  { text: "GCIS_658_0B", value: "GCIS_658_0B" },
+  { text: "GCIS_665_0A", value: "GCIS_665_0A" },
+  { text: "GCIS_665_0B", value: "GCIS_665_0B" },
+];
+---
+
+<header class="w-full fixed top-0 left-0 z-10 bg-white shadow-md">
+  <div class="container mx-auto py-4 px-4">
+    <h1 class="text-xl font-bold text-center mb-4">{title}</h1>
+    <div class="absolute flex top-5 right-5">
+      <button
+        class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded"
+        id="logoutButton"
+      >
+        Logout
+      </button>
+    </div>
+    <div class="text-center text-md text-blue-600 font-bold mb-5">
+      Welcome, <span id="username"></span>!
+    </div>
+    <div class="flex flex-wrap items-center justify-center gap-2">
+      {
+        buttons.map((button, index) => (
+          <Button
+            text={button.text}
+            onClick={`filterSelection('${button.value}')`}
+            isActive={index === 0}
+          />
+        ))
+      }
+    </div>
+  </div>
+</header>
+
+<style>
+  @media (max-width: 640px) {
+    header {
+      position: static;
+    }
+    .h-32 {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  const user = JSON.parse(localStorage.getItem("user") || "{}");
+  document.getElementById("username").innerText = user.name || "Guest";
+
+  document.getElementById("logoutButton").addEventListener("click", logout);
+
+  async function logout() {
+    const token = localStorage.getItem("token");
+    try {
+      const response = await fetch("/api/logout", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ token }),
+      });
+
+      if (response.ok) {
+        localStorage.removeItem("token");
+        localStorage.removeItem("user");
+        window.location.replace("/login");
+      } else {
+        alert("Something went wrong. Please try again.");
+      }
+    } catch (error) {
+      console.error("Error:", error);
+      alert("An error occurred. Please try again.");
+    }
+  }
+</script>
